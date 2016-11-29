@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0b7e94d5-1db5-4731-91af-0e32b4503769" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/CapitalStrategy.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/CaptitalStrategyTest.java" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/create_method/Loan.class" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Loan.java" afterPath="$PROJECT_DIR$/src/Loan.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/LoanTest.java" afterPath="$PROJECT_DIR$/test/LoanTest.java" />
     </list>
     <ignored path="create_method.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -877,7 +872,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1480386231980</updated>
-      <workItem from="1480386234532" duration="2332000" />
+      <workItem from="1480386234532" duration="2434000" />
     </task>
     <servers />
   </component>
@@ -893,7 +888,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2332000" />
+    <option name="totallyTimeSpent" value="2434000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1301" height="1103" extended-state="0" />
